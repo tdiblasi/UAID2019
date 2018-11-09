@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/UAID2019",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
